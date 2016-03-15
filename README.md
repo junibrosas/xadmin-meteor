@@ -1,12 +1,35 @@
-##### The Meteor Chef
-###### \#018 - Building a Blog with React
+# Content Management Application written in Meteor
+Written during night time, experimenting best practices, uses latest trends, getting comfortable with Javascript, creating a project portfolio, and a playing ground for Meteor development.
 
-In this recipe, we'll work with HD Buff, a curated video streaming service to create a blog for their website using React. We'll see how to create a simple admin area, retrieve posts, and even handle things like Markdown directly from our React components!
 
-[Read on The Meteor Chef](http://themeteorchef.com/recipes/building-a-blog-with-react)  
+<h3>About The Project:<h3/>
+<p>A basic blog posting and management. Nothing really fancy yet but hopefully there is something soon.</p>
 
-[Demo the Recipe](http://tmc-018-demo.meteor.com)  
+<ul>
+	<li>Javascript ES2015</li>
+	<li>Meteor 1.2.1</li>
+	<li>React</li>
+	<li>MongoDB</li>
+</ul>
 
-[Download the Source](https://github.com/themeteorchef/building-a-blog-with-react/archive/master.zip)
 
-The code for this recipe is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+<h3>I used:<h3/>
+<ul>
+	<li>Javascript ES2015</li>
+	<li>Meteor 1.2.1</li>
+	<li>React</li>
+	<li>MongoDB</li>
+</ul>
+
+
+<h3>Installation<h3/>
+<ul>
+	<li>Install Meteor</li>
+	<li>Clone the repository</li>
+	<li>Go to project directory</li>
+	<li>run 'meteor'</li>
+</ul>
+
+
+<h3>And OH!<h3/>
+<p>Im moving to Meteor 1.3 to learn cool and new stuff.</p>

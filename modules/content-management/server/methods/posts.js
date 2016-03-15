@@ -1,4 +1,9 @@
 Meteor.methods({
+  newPost() {
+    return Posts.insert( {} );
+  }
+});
+Meteor.methods({
   savePost( post ) {
     check( post, Object );
 

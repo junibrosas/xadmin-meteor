@@ -9,19 +9,6 @@ publicRoutes.route( '/', {
   }
 });
 
-publicRoutes.route( '/posts/:slug', {
-  name: 'singlePost',
-  action( params ) {
-    ReactLayout.render( App, { yield: <SinglePost slug={ params.slug } /> } );
-  }
-});
-
-publicRoutes.route( '/tags/:tag', {
-  name: 'tagIndex',
-  action( params ) {
-    ReactLayout.render( App, { yield: <PostsIndex tag={ params.tag } /> } );
-  }
-});
 
 publicRoutes.route( '/login', {
   name: 'login',

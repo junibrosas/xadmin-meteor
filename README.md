@@ -13,7 +13,7 @@ A basic blog posting and management. Nothing really fancy yet but hopefully ther
 </ul>
 
 
-<h3>I used:<h3/>
+<h3>I used:</h3>
 <ul>
 	<li>Javascript ES2015</li>
 	<li>Meteor 1.2.1</li>
@@ -22,11 +22,11 @@ A basic blog posting and management. Nothing really fancy yet but hopefully ther
 </ul>
 
 
-<h3>Installation<h3/>
+<h3>Installation</h3>
 Install Meteor
 Clone the repository
 Go to project directory
 run 'meteor'
 
-<h3>And OH!<h3/>
+<h3>And OH!</h3>
 Im moving to Meteor 1.3 to learn cool and new stuff.
